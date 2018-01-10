@@ -1,7 +1,7 @@
 import requests
 import json
 
-api_access_token = 'fdca749516f6fde2f5df9da2c0109c20' # токен можно получить здесь https://qiwi.com/api
+api_access_token = 'token' # токен можно получить здесь https://qiwi.com/api
 my_login = '+79788264777' # номер QIWI Кошелька в формате +79991112233
 
 s = requests.Session()
